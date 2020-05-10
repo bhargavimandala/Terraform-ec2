@@ -1,0 +1,10 @@
+accesskey_id = "AKIAJLZDQKA2IGCVE6SA" 
+secretkey = "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"
+region = "eu-west-2"
+ec2_ami = "ami-0596aab74a1ce3983"
+instance_class = "t2.micro"
+name = "bhargavi-aws"
+availability_zone = "eu-west-2a"
+ec2_key = "awskeys"
+ec2_device_names = ["/dev/xvdb","/dev/xvdc","/dev/xvdd"]
+ec2_ebs_volume_size = 5
